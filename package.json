@@ -1,0 +1,22 @@
+{
+  "name": "angular-playground",
+  "version": "1.0.0",
+  "description": "A demo app for learning angular",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jkup/angular-playground.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jkup/angular-playground/issues"
+  },
+  "homepage": "https://github.com/jkup/angular-playground",
+  "dependencies": {
+    "angular": "^1.3.14"
+  }
+}
